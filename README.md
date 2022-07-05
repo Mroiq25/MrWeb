@@ -4,6 +4,7 @@ MrWeb - explore the internet anonymously
 
 How to install:
 1. Download mrwebsetup.exe
+http://mrweb.mroziq.eu/mrwebsetup.exe
 2. Open the installer and follow the instructions
 
 _________________________________________________________
