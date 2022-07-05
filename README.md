@@ -17,7 +17,7 @@ REMEMBER TO ADD HTTP:// OR HTTPS:// BEFORE THE LINK!!
 
 Use HOME (🏠) button to get back to the main page.
 Use REFRESH (📨)  button to refresh the website.
-Use arrows ( <  > ) to navigate to the next sit or the site that you visited before.
+Use arrows ( <  > ) to navigate to the next site or the site that you visited before.
 
 If you have any questions e-mail me (mroziq@mroziq.eu) or share your problems with me and our community so we can improve our browser.
 MrWeb - safe web browsing = better web browsing!
